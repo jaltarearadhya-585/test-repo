@@ -1,12 +1,12 @@
 # test-repo
 
-description
+description.
 
 ## sub header
 
-this is just for testing purposes
+this is just for testing purposes.
 
 ### sub header 2
 
-testing successful
+testing successful.
 
